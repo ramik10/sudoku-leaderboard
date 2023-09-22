@@ -1,0 +1,163 @@
+[
+    {
+        "Event": "Inauguaral Event",
+        "Date": "22/09/2023",
+        "Start Time": "10:30",
+        "End Time": "11:30",
+        "color": "bg-red-600"
+    },
+    {
+        "Event": "Flutter Seminar",
+        "Date": "22/09/2023",
+        "Start Time": "11:30",
+        "End Time": "12:30",
+        "color": "bg-rose-600"
+    },
+    {
+        "Event": "CodeBrains",
+        "Date": "22/09/2023",
+        "Start Time": "12:30",
+        "End Time": "14:00",
+        "color": "bg-cyan-600"
+    },
+    {
+        "Event": "Rubiks",
+        "Date": "22/09/2023",
+        "Start Time": "14:00",
+        "End Time": "15:00",
+        "color": "bg-orange-500"
+    },
+    {
+        "Event": "Frontend Seminar",
+        "Date": "22/09/2023",
+        "Start Time": "15:00",
+        "End Time": "16:00",
+        "color": "bg-rose-600"
+    },
+    {
+        "Event": "Workshop",
+        "Date": "22/09/2023",
+        "Start Time": "16:00",
+        "End Time": "17:30",
+        "color": "bg-red-600"
+    },
+    {
+        "Event": "Gaming Competition (Qualification)",
+        "Date": "22/09/2023",
+        "Start Time": "11:30",
+        "End Time": "17:00",
+        "color": "bg-amber-600"
+    },
+    {
+        "Event": "Gaming Dev Seminar",
+        "Date": "23/09/2023",
+        "Start Time": "11:00",
+        "End Time": "12:30",
+        "color": "bg-rose-600"
+    },
+    {
+        "Event": "Guest Lecture",
+        "Date": "23/09/2023",
+        "Start Time": "12:30",
+        "End Time": "14:00",
+        "color": "bg-purple-600"
+    },
+    {
+        "Event": "ML Seminar",
+        "Date": "23/09/2023",
+        "Start Time": "14:00",
+        "End Time": "15:00",
+        "color": "bg-rose-600"
+    },
+    {
+        "Event": "Debate",
+        "Date": "23/09/2023",
+        "Start Time": "15:00",
+        "End Time": "16:30",
+        "color": "bg-teal-700"
+    },
+    {
+        "Event": "Power Puzzle Sudoku",
+        "Date": "23/09/2023",
+        "Start Time": "16:30",
+        "End Time": "17:30",
+        "color": "bg-emerald-500"
+    },
+    {
+        "Event": "CTF HACKATHON",
+        "Date": "23/09/2023",
+        "Start Time": "10:30",
+        "End Time": "17:30",
+        "color": "bg-rose-600"
+    },
+    {
+        "Event": "SNAP BUZZ",
+        "Date": "23/09/2023",
+        "Start Time": "14:00",
+        "End Time": "17:30",
+        "color": "bg-blue-600"
+    },
+    {
+        "Event": "Backend Seminar",
+        "Date": "24/09/2023",
+        "Start Time": "11:00",
+        "End Time": "12:30",
+        "color": "bg-rose-600"
+    },
+    {
+        "Event": "Binary Exploitation",
+        "Date": "24/09/2023",
+        "Start Time": "12:30",
+        "End Time": "14:00",
+        "color": "bg-red-600"
+    },
+    {
+        "Event": "Gen Quiz",
+        "Date": "24/09/2023",
+        "Start Time": "14:30",
+        "End Time": "15:30",
+        "color": "bg-lime-500"
+    },
+    {
+        "Event": "Tech Quiz",
+        "Date": "24/09/2023",
+        "Start Time": "15:30",
+        "End Time": "16:30",
+        "color": "bg-sky-600"
+    },
+    {
+        "Event": "Prize Announcement",
+        "Date": "24/09/2023",
+        "Start Time": "16:30",
+        "End Time": "17:30",
+        "color": "bg-violet-800"
+    },
+    {
+        "Event": "Short Film",
+        "Date": "24/09/2023",
+        "Start Time": "10:30",
+        "End Time": "12:30",
+        "color": "bg-violet-600"
+    },
+    {
+        "Event": "Reel Making",
+        "Date": "24/09/2023",
+        "Start Time": "12:30",
+        "End Time": "14:30",
+        "color": "bg-pink-600"
+    },
+    {
+        "Event": "Gaming Event (Final up round)",
+        "Date": "24/09/2023",
+        "Start Time": "11:30",
+        "End Time": "17:00",
+        "color": "bg-red-600"
+    },
+    {
+        "Event": "DJ Night",
+        "Date": "24/09/2023",
+        "Start Time": "17:30",
+        "End Time": "19:30",
+        "color": "bg-red-600"
+    }
+]
